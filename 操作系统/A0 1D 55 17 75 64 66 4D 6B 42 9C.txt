@@ -1,0 +1,29 @@
+A0 1D 55 17 75 64 66 4D 6B 42 9C
+
+202308010212
+
+AA 55 02 00 02 03 00 08 00 01 00 02 01 02
+8F BE AB 07 
+
+curl "132.232.98.70:6363/checkSecret?id=202308010212&v=A01D55177564664D6B429C&s=8FBEAB07 "
+F8 78 BF 8D 29 
+A0 1D 55 17 75 64 66 68 73 33 B7 
+curl "132.232.98.70:6363/checkBaud?id=202308010212&v=A01D5517756466687333B7 "
+
+
+sudo apt install python3-pip
+
+sudo apt install python3-pip
+
+
+ls /dev/ttyUSB*  # 列出所有USB串口设备节点
+
+lsusb  # 查看所有USB设备
+
+sudo chmod 666 /dev/usb0  # 赋予所有用户读写权限  
+
+B212E0FF
+
+A01DD0771A5A72B013E2FF
+
+curl "132.232.98.70:6363/checkSecret?id=202308010212&v=A01DD0771A5A72B013E2FF&s=B212E0FF"

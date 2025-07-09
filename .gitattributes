@@ -1,0 +1,10 @@
+# 自动处理文本文件的行结束符
+* text=auto
+
+# 为特定文件指定行结束符格式
+*.c text eol=lf
+*.h text eol=lf
+*.cpp text eol=lf
+*.txt text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
