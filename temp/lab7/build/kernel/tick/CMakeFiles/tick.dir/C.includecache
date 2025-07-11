@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/opreatingSystem/lab7/src/bsp/os_attr_armv8_external.h
+
+/home/wang/opreatingSystem/lab7/src/bsp/os_cpu_armv8_external.h
+
+/home/wang/opreatingSystem/lab7/src/include/prt_config.h
+
+/home/wang/opreatingSystem/lab7/src/include/prt_typedef.h
+stddef.h
+-
+stdint.h
+-
+stdbool.h
+-
+
+/home/wang/opreatingSystem/lab7/src/kernel/tick/prt_tick.c
+os_attr_armv8_external.h
+/home/wang/opreatingSystem/lab7/src/kernel/tick/os_attr_armv8_external.h
+prt_typedef.h
+/home/wang/opreatingSystem/lab7/src/kernel/tick/prt_typedef.h
+prt_config.h
+/home/wang/opreatingSystem/lab7/src/kernel/tick/prt_config.h
+os_cpu_armv8_external.h
+/home/wang/opreatingSystem/lab7/src/kernel/tick/os_cpu_armv8_external.h
+

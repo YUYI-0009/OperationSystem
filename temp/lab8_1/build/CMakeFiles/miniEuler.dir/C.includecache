@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/opreatingSystem/lab8_1/src/bsp/os_cpu_armv8.h
+prt_typedef.h
+/home/wang/opreatingSystem/lab8_1/src/bsp/prt_typedef.h
+
+/home/wang/opreatingSystem/lab8_1/src/include/prt_errno.h
+prt_typedef.h
+/home/wang/opreatingSystem/lab8_1/src/include/prt_typedef.h
+
+/home/wang/opreatingSystem/lab8_1/src/include/prt_module.h
+
+/home/wang/opreatingSystem/lab8_1/src/include/prt_task.h
+os_cpu_armv8.h
+/home/wang/opreatingSystem/lab8_1/src/include/os_cpu_armv8.h
+prt_module.h
+/home/wang/opreatingSystem/lab8_1/src/include/prt_module.h
+prt_errno.h
+/home/wang/opreatingSystem/lab8_1/src/include/prt_errno.h
+
+/home/wang/opreatingSystem/lab8_1/src/include/prt_tick.h
+prt_typedef.h
+/home/wang/opreatingSystem/lab8_1/src/include/prt_typedef.h
+
+/home/wang/opreatingSystem/lab8_1/src/include/prt_typedef.h
+stddef.h
+-
+stdint.h
+-
+stdbool.h
+-
+
+/home/wang/opreatingSystem/lab8_1/src/main.c
+prt_typedef.h
+/home/wang/opreatingSystem/lab8_1/src/prt_typedef.h
+prt_tick.h
+/home/wang/opreatingSystem/lab8_1/src/prt_tick.h
+prt_task.h
+/home/wang/opreatingSystem/lab8_1/src/prt_task.h
+

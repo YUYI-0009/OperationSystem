@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/opreatingSystem/lab2/src/bsp/print.c
+stdarg.h
+-
+prt_typedef.h
+/home/wang/opreatingSystem/lab2/src/bsp/prt_typedef.h
+
+/home/wang/opreatingSystem/lab2/src/bsp/vsnprintf_s.c
+stdarg.h
+-
+
+/home/wang/opreatingSystem/lab2/src/include/prt_typedef.h
+stddef.h
+-
+stdint.h
+-
+stdbool.h
+-
+

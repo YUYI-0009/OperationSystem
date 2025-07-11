@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/os_exc_armv8.h
+prt_typedef.h
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/prt_typedef.h
+
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/print.c
+stdarg.h
+-
+prt_typedef.h
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/prt_typedef.h
+
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/prt_exc.c
+prt_typedef.h
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/prt_typedef.h
+os_exc_armv8.h
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/os_exc_armv8.h
+
+/home/wang/opreatingSystem/lab4_FPU/src/bsp/vsnprintf_s.c
+stdarg.h
+-
+
+/home/wang/opreatingSystem/lab4_FPU/src/include/prt_typedef.h
+stddef.h
+-
+stdint.h
+-
+stdbool.h
+-
+

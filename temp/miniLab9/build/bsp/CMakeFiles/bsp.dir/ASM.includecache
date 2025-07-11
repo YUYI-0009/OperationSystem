@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/VScode/miniLab9/src/bsp/cache_asm.S
+
+/home/wang/VScode/miniLab9/src/bsp/prt_reset_vector.S
+
+/home/wang/VScode/miniLab9/src/bsp/prt_vector.S
+
+/home/wang/VScode/miniLab9/src/bsp/start.S
+

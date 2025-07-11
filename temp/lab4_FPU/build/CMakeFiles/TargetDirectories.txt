@@ -1,0 +1,6 @@
+/home/wang/opreatingSystem/lab4_FPU/build/CMakeFiles/rebuild_cache.dir
+/home/wang/opreatingSystem/lab4_FPU/build/CMakeFiles/edit_cache.dir
+/home/wang/opreatingSystem/lab4_FPU/build/CMakeFiles/miniEuler.dir
+/home/wang/opreatingSystem/lab4_FPU/build/bsp/CMakeFiles/rebuild_cache.dir
+/home/wang/opreatingSystem/lab4_FPU/build/bsp/CMakeFiles/edit_cache.dir
+/home/wang/opreatingSystem/lab4_FPU/build/bsp/CMakeFiles/bsp.dir
